@@ -1,2 +1,4 @@
-# techAcademyProjects
-## Project for coding course work.
+# techAcademyProjects - Course Work - Lelushia
+
+- WIP
+
