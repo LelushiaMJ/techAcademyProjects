@@ -1,0 +1,41 @@
+div {
+    color: purple;
+    text-align: right;
+}
+
+.changeColorClass {
+    color: orange;
+    background-color: blue;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#test_css {
+    text-shadow: 2px 2px #ff0000;
+}
+
+table {
+    background-color: black;
+    border: 1px solid green;
+    color: white;
+    padding: 5px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+td, th {
+    border: 1px solid green;
+}
+
+td:hover {
+    background-color: green;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style-type: square;
+}
